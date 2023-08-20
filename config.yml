@@ -1,4 +1,4 @@
-baseURL: https://dayops.ru
+baseURL: "https://dayops.ru"
 languageCode: en-us
 title: DayOps
 theme: PaperMod
