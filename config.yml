@@ -1,0 +1,35 @@
+baseURL: http://example.org
+languageCode: en-us
+title: DayOps
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: Hello Guys
+    Content: Welcome to my blog. Here you will find a lot of cool topic about IT
+  socialIcons:
+    - name: github
+      url: "https://github.com/splivak"
+    - name: gitlab
+      url: "https://gitlab.com"
+    - name: telegram
+    - name: instagram
+      
+  ShowBreadCrumbs: true # навигация по постам
+  ShowReadingTime: true # время чтения статьи
+  ShowShareButtonns: true 
+  ShowPostNavLinks: true # кнопки вперед/назад
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: Archives
+      name: Archives
+      url: /archives/
+      weight: 30
