@@ -62,7 +62,7 @@ SOCKS — это сокращение от Socket Secure, сетевого пр�
     [Service] 
     User=root 
     Type=idle  
-    ExecStart=/usr/sbin/tun2socks-linux-amd64 -device tun://gatewaytun -proxy socks5://10.10.0.50:1080 & sleep 3; ip link set gatewaytun up Restart=on-failure 
+    ExecStart=/usr/sbin/tun2socks-linux-amd64 -device tun://gatewaytun -proxy socks5://10.0.0.5:1080 & sleep 3; ip link set gatewaytun up Restart=on-failure 
     [Install] 
     WantedBy=multi-user.target 
     
@@ -73,7 +73,7 @@ SOCKS — это сокращение от Socket Secure, сетевого пр�
 		    ens160: 
 			    optional: true 
 			    adresses: [192.168.1.10/24] 
-			    routes: - to: 10.10.0.50 via: 192.168.1.1 
+			    routes: - to: 10.0.0.5 via: 192.168.1.1 
 		    gatewaytun: 
 			    dhcp4: no dhcp-identifier: mac 
 			    optional: true 

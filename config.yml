@@ -8,13 +8,17 @@ params:
     Title: Hello Guys
     Content: Welcome to my blog. Here you will find a lot of cool topic about IT
   socialIcons:
+    - name: linkidin
+      url: "https://github.com/splivak"
     - name: github
       url: "https://github.com/splivak"
-    - name: gitlab
-      url: "https://gitlab.com"
+    - name: kofi
+      url: "https://github.com/splivak"
     - name: telegram
-    - name: instagram
-      
+      url: "https://github.com/splivak"
+    
+  
+  defaultTheme: light
   ShowBreadCrumbs: true # навигация по постам
   ShowReadingTime: true # время чтения статьи
   ShowShareButtonns: true 
