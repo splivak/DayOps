@@ -5,8 +5,8 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: Hello Guys
-    Content: Welcome to my blog. Here you will find a lot of cool topic about IT
+    Title: DayOps.ru ![Logo](favi.png)
+    Content: Всем привет! Добро пожаловать на мой блог, посвященный ИТ тематике. Я надеюсь, что здесь вы сможете найти полезную и интересную информацию для себя.
   socialIcons:
     - name: linkidin
       url: "https://github.com/splivak"
@@ -16,6 +16,10 @@ params:
       url: "https://github.com/splivak"
     - name: telegram
       url: "https://github.com/splivak"
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon32x32: "favi.png"
     
   
   defaultTheme: light
