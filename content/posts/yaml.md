@@ -3,7 +3,7 @@ title: "YAML - язык разметки"
 date: 2023-08-14T12:55:52+03:00
 draft: false
 cover:
-    image: /img/yaml.jpg
+    image: /img/yaml.png
 ---
 
 **Что же такое YAML?**

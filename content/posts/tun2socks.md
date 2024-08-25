@@ -5,7 +5,7 @@ draft: false
 tags: ["proxy"]
 categories: ["network"]
 cover:
-    image: /img/tun2socks.png
+    image: /img/tun2socks2.png
 
 ---
 

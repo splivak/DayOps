@@ -5,7 +5,7 @@ draft: false
 tags: ["git"]
 categories: ["services"]
 cover:
-    image: /img/haproxy.png
+    image: /img/git.png
 ---
 
 

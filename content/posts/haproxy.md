@@ -5,7 +5,7 @@ draft: false
 tags: ["proxy"]
 categories: ["services"]
 cover:
-    image: /img/haproxy.png
+    image: /img/haproxy2.png
 ---
 
 HAProxy (High Availability Proxy) – это популярный и открытый балансировщик нагрузки TCP/HTTP и прокси-сервер для систем Linux. Он позволяет улучшить производительность и отказоустойчивость серверного окружения путём распределения рабочей нагрузки между несколькими серверами (например, между веб-сервером, сервером баз данных и сервером приложений). HAProxy используют различные проекты с высокой нагрузкой: GitHub, Spotify, Instagram, Facebook и Twitter.

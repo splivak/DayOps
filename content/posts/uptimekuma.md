@@ -5,7 +5,7 @@ draft: false
 tags: ["web", "docker"]
 categories: ["monitoring"]
 cover:
-    image: /img/haproxy.png
+    image: /img/uptimekuma.png
 ---
 
 Многие команды разработчиков и админов сталкиваются с задачами мониторинга сайтов, доменов, сертификатов и т. д. Думаю многие согласятся, что для таких задач разворачивать громоздкие сервисы как zabbix или prometeus+grafana избыточно.

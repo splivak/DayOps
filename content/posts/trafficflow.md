@@ -5,7 +5,7 @@ draft: false
 tags: ["traffic flow"]
 categories: ["network"]
 cover:
-    image: /img/haproxy.png
+    image: /img/trafficflow.png
 ---
 
 Для того чтобы понять как трафик проходит через маршрутизатор (не важно будь то cisco, MikroTik, Linux router и т. д.) мне кажется лучше всего рассмотреть схему от компании MikroTik, т. к. она более подробно описывает все этапы.

@@ -5,7 +5,7 @@ draft: false
 tags: ["iptables"]
 categories: ["network"]
 cover:
-    image: /img/haproxy.png
+    image: /img/linux.png
 ---
 
 # **Что такое iptables**
