@@ -1,6 +1,6 @@
 ---
 title: "tcpdump"
-date: 2024-07-25T20:20:53+03:00
+date: 2024-07-21T20:20:53+03:00
 draft: false
 tags: ["traffic analysis"]
 categories: ["linux"]

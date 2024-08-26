@@ -1,6 +1,6 @@
 ---
 title: "Htop"
-date: 2024-07-25T23:47:36+03:00
+date: 2024-07-27T23:47:36+03:00
 draft: false
 tags: ["traffic flow"]
 categories: ["linux"]
@@ -93,14 +93,14 @@ sudo htop
 
 И еще несколько альтернативных улитилит.
 
-bashtop
+**bashtop**
 
 ![bashtop](/img/bashtop.png#center)
 
-gtop
+**gtop**
 
 ![gtop](/img/gtop.gif#center)
 
-vtop
+**vtop**
 
 ![vtop](/img/vtop.gif#center)
